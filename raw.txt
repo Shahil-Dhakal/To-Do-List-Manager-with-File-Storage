@@ -1,0 +1,7 @@
+okay i have decided to do this on 6 increment. 
+1.making menu
+2.add task
+3.remove
+4.view
+5.mark
+6.refine.

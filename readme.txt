@@ -9,3 +9,14 @@ INTRODUCTION:
     A little update in the code is done to write a clear and good code. For example, displaying menu is inserted in a function and taking user input is also done through function. Used while loop to run the code untill the use chooses to exit.
 
 2nd INCREMENT:
+    "Add task" feature is added. Used Dictionaries inside list to store all those tasks.
+
+3rd INCREMENT:
+    "View Task" feature is added. Used simple logic to perform operation. Read the file data and printed it to implement this feature.
+
+4th INCREMENT:
+    "Remove Task" feature is added. Used "readlines()" function to read each line in the file and stored it in a variable. While printing each lines, Used "strip()" function that removes extra space at the end of each line in the file, to make the output user friendly. Used "pop()" function to remove the data and the new data after poping is added in the file with "w" methos.
+
+5th INCREMENT:
+    Refinement is done. There was a small un-noticed logical error in the program, causing false output and error. That was fixed. Still a lot of un-seen problem may arise. Which Will be further updated.
+
